@@ -21,3 +21,6 @@ while True:
    print(book[name])
   else:
    print('ошибка')
+
+# TODO: Заметки
+## Date: 25.05.2024
